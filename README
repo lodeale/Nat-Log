@@ -1,0 +1,6 @@
+Net-Log
+-------
+
+Sistema que toma el log de access.log de apache y muestra ordenadamente
+las peticiones que hubo. Busca ciertos patrones para detectar si hay 
+algún tipo de ataque informático.
